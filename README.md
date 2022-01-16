@@ -1,6 +1,6 @@
 # AKC Mística
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c8680dfb-8016-4301-b4a2-147866d093a2/deploy-status)](https://app.netlify.com/sites/akc-programas/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2b32eb6b-0f93-41a1-b27d-dc6f6f650bbf/deploy-status)](https://app.netlify.com/sites/akc-mistica/deploys)
 
 Notas sobre yoga, meditación, tarot, espiritualidad.
 
