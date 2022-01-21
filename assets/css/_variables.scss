@@ -53,8 +53,8 @@ $selection-color-dark: rgba(50, 112, 194, 0.4) !default;
 $header-height: 3.5rem !default;
 
 // Color of the header background
-$header-background-color: #c49fff !default;
-$header-background-color-dark: hsl(293, 100%, 20%) !default;
+$header-background-color: rgb(196,159,255) !default;
+$header-background-color-dark: rgba(196,159,255, 0.3) !default;
 
 // Font style of the header title
 $header-title-font-family: $global-font-family !default;

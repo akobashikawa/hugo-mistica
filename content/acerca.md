@@ -4,7 +4,7 @@ date: 2022-01-12T11:43:00-05:00
 draft: false
 ---
 
-![Acerca](acerca.png)
+{{<image src="blog-akc-mistica.png" width="100%">}}
 
 Somos educados, por nuestros padres, por nuestra comunidad, por todo el mundo, cada día, acerca de las cosas que son posibles y de las que no. Esa es la **Matrix**.
 
