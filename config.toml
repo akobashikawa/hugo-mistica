@@ -1,4 +1,4 @@
-baseURL = "https://akc-mistica.netlify.app/"
+baseURL = "https://mistica.akcademia.xyz/"
 # [en, es, ...] determines default content language
 defaultContentLanguage = "es"
 # language code
