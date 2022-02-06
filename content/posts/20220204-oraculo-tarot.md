@@ -1,12 +1,12 @@
 ---
-title: "Lectura 2022/02/04"
+title: "Oráculo 2022.02.04"
 subtitle: "Tarot de hoy"
-slug: "20220204-lectura-tarot"
-featuredImagePreview: "20220204-lectura-tarot-featured.jpg"
-featuredImage: "20220204-lectura-tarot.jpg"
+slug: "20220204-oraculo-tarot"
+featuredImagePreview: "20220204-oraculo-tarot-featured.jpg"
+featuredImage: "20220204-oraculo-tarot.jpg"
 images: ["20220204-lectura-tarot.jpg"]
 categories: ["Tarot"]
-tags: ["tarot"]
+tags: ["tarot", "oraculo"]
 author: "Antonio Kobashikawa"
 date: 2022-02-04T13:29:00-05:00
 draft: false
