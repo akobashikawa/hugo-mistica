@@ -27,4 +27,4 @@ Pronto, dominaremos mejor las cosas \
 Siento más armonía interior \
 Inicio algo auspicioso \
 Quisiera buenas noticias \
-El resultado será progreso gradual \
+El resultado será progreso gradual
