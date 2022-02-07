@@ -1,6 +1,7 @@
 ---
 title: "Oráculo 2022.02.05"
 subtitle: "Tarot de hoy"
+summary: "Acerca del apoyo material para esta relación."
 slug: "20220205-oraculo-tarot"
 featuredImagePreview: "20220205-oraculo-tarot-featured.jpg"
 featuredImage: "20220205-oraculo-tarot.jpg"

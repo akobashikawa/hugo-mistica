@@ -1,6 +1,7 @@
 ---
 title: "Oráculo 2022.02.04"
 subtitle: "Tarot de hoy"
+summary: "Acerca del esfuerzo por contar con un apoyo material."
 slug: "20220204-oraculo-tarot"
 featuredImagePreview: "20220204-oraculo-tarot-featured.jpg"
 featuredImage: "20220204-oraculo-tarot.jpg"
