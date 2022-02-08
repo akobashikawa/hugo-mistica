@@ -1,7 +1,7 @@
 ---
 title: "Oráculo 2022.02.07"
 subtitle: "Tarot de hoy"
-summary: "Acerca de no ver como dirigir mejor nuestros proyectos."
+summary: "Acerca de recuperar lo invertido"
 slug: "20220207-oraculo-tarot"
 featuredImagePreview: "20220207-oraculo-tarot-featured.jpg"
 featuredImage: "20220207-oraculo-tarot.jpg"
