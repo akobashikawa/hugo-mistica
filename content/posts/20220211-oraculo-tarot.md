@@ -1,7 +1,7 @@
 ---
 title: "Oráculo 2022.02.11"
 subtitle: "Tarot de hoy"
-summary: "Acerca de aprender en esta espera"
+summary: "Juicio tras avance rápido y furioso"
 slug: "20220211-oraculo-tarot"
 featuredImagePreview: "20220211-oraculo-tarot-featured.jpg"
 featuredImage: "20220211-oraculo-tarot.jpg"
