@@ -5,7 +5,7 @@ summary: "Acerca del apoyo material para esta relación."
 slug: "20220205-oraculo-tarot"
 featuredImagePreview: "20220205-oraculo-tarot-featured.jpg"
 featuredImage: "20220205-oraculo-tarot.jpg"
-images: ["20220205-lectura-tarot.jpg"]
+images: ["20220205-oraculo-tarot.jpg"]
 categories: ["Tarot"]
 tags: ["tarot", "oraculo"]
 author: "Antonio Kobashikawa"

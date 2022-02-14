@@ -5,7 +5,7 @@ summary: "Acerca de aprender por uno mismo cómo avanzar los proyectos"
 slug: "20220208-oraculo-tarot"
 featuredImagePreview: "20220208-oraculo-tarot-featured.jpg"
 featuredImage: "20220208-oraculo-tarot.jpg"
-images: ["20220208-lectura-tarot.jpg"]
+images: ["20220208-oraculo-tarot.jpg"]
 categories: ["Tarot"]
 tags: ["tarot", "oraculo"]
 author: "Antonio Kobashikawa"

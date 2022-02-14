@@ -5,7 +5,7 @@ summary: "Acerca de recuperar lo invertido"
 slug: "20220207-oraculo-tarot"
 featuredImagePreview: "20220207-oraculo-tarot-featured.jpg"
 featuredImage: "20220207-oraculo-tarot.jpg"
-images: ["20220207-lectura-tarot.jpg"]
+images: ["20220207-oraculo-tarot.jpg"]
 categories: ["Tarot"]
 tags: ["tarot", "oraculo"]
 author: "Antonio Kobashikawa"

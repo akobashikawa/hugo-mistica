@@ -5,7 +5,7 @@ summary: "Acerca del esfuerzo por contar con un apoyo material."
 slug: "20220204-oraculo-tarot"
 featuredImagePreview: "20220204-oraculo-tarot-featured.jpg"
 featuredImage: "20220204-oraculo-tarot.jpg"
-images: ["20220204-lectura-tarot.jpg"]
+images: ["20220204-oraculo-tarot.jpg"]
 categories: ["Tarot"]
 tags: ["tarot", "oraculo"]
 author: "Antonio Kobashikawa"

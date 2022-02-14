@@ -5,7 +5,7 @@ summary: "..."
 slug: "20220214-oraculo-tarot"
 featuredImagePreview: "20220214-oraculo-tarot-preview.jpg"
 featuredImage: "20220214-oraculo-tarot.jpg"
-images: ["20220214-lectura-tarot.jpg"]
+images: ["20220214-oraculo-tarot.jpg"]
 categories: ["Tarot"]
 tags: ["tarot", "oraculo"]
 author: "Antonio Kobashikawa"

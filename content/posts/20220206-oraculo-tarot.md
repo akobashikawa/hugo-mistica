@@ -5,7 +5,7 @@ summary: "Acerca de no ver como dirigir mejor nuestros proyectos."
 slug: "20220206-oraculo-tarot"
 featuredImagePreview: "20220206-oraculo-tarot-featured.jpg"
 featuredImage: "20220206-oraculo-tarot.jpg"
-images: ["20220206-lectura-tarot.jpg"]
+images: ["20220206-oraculo-tarot.jpg"]
 categories: ["Tarot"]
 tags: ["tarot", "oraculo"]
 author: "Antonio Kobashikawa"

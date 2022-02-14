@@ -5,7 +5,7 @@ summary: "Juicio tras avance rápido y furioso"
 slug: "20220211-oraculo-tarot"
 featuredImagePreview: "20220211-oraculo-tarot-featured.jpg"
 featuredImage: "20220211-oraculo-tarot.jpg"
-images: ["20220211-lectura-tarot.jpg"]
+images: ["20220211-oraculo-tarot.jpg"]
 categories: ["Tarot"]
 tags: ["tarot", "oraculo"]
 author: "Antonio Kobashikawa"

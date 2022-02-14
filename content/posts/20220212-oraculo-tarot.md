@@ -5,7 +5,7 @@ summary: "Acerca de aprender a ser feliz"
 slug: "20220212-oraculo-tarot"
 featuredImagePreview: "20220212-oraculo-tarot-featured.jpg"
 featuredImage: "20220212-oraculo-tarot.jpg"
-images: ["20220212-lectura-tarot.jpg"]
+images: ["20220212-oraculo-tarot.jpg"]
 categories: ["Tarot"]
 tags: ["tarot", "oraculo"]
 author: "Antonio Kobashikawa"

@@ -5,7 +5,7 @@ summary: "Acerca de aprender en esta espera"
 slug: "20220210-oraculo-tarot"
 featuredImagePreview: "20220210-oraculo-tarot-featured.jpg"
 featuredImage: "20220210-oraculo-tarot.jpg"
-images: ["20220210-lectura-tarot.jpg"]
+images: ["20220210-oraculo-tarot.jpg"]
 categories: ["Tarot"]
 tags: ["tarot", "oraculo"]
 author: "Antonio Kobashikawa"

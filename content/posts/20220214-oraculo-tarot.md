@@ -5,11 +5,11 @@ summary: "Acerca de aprovechar la situación"
 slug: "20220214-oraculo-tarot"
 featuredImagePreview: "20220214-oraculo-tarot-preview.jpg"
 featuredImage: "20220214-oraculo-tarot.jpg"
-images: ["20220214-lectura-tarot.jpg"]
+images: ["20220214-oraculo-tarot.jpg"]
 categories: ["Tarot"]
 tags: ["tarot", "oraculo"]
 author: "Antonio Kobashikawa"
-date: 2022-02-14T20:55:00-05:00
+date: 2022-02-14T13:32:00-05:00
 draft: false
 ---
 

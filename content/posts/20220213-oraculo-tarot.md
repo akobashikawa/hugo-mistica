@@ -5,7 +5,7 @@ summary: "Acerca de la felicidad de encontrar nuestras propias respuestas"
 slug: "20220213-oraculo-tarot"
 featuredImagePreview: "20220213-oraculo-tarot-featured.jpg"
 featuredImage: "20220213-oraculo-tarot.jpg"
-images: ["20220213-lectura-tarot.jpg"]
+images: ["20220213-oraculo-tarot.jpg"]
 categories: ["Tarot"]
 tags: ["tarot", "oraculo"]
 author: "Antonio Kobashikawa"
