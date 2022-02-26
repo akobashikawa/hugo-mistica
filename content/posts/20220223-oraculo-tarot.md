@@ -1,5 +1,5 @@
 ---
-title: "Oráculo 2022.02.23 Twosday"
+title: "Oráculo 2022.02.23"
 subtitle: "Tarot de hoy"
 summary: "Acerca de la felicidad de avanzar según lo planeado"
 slug: "20220223-oraculo-tarot"
